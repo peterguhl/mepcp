@@ -3191,3 +3191,8 @@ Fecha;Producto;unidades;Impuesto Componente Base;Impuesto Componente Variable;Cr
 29-02-2024;Petróleo Diesel;UTM/m3;1,5;-1,6216;;-0,1216
 29-02-2024;Gas Licuado de Petróleo de Consumo Vehicular;UTM/m3;1,4;0;;1,4
 29-02-2024;Gas Natural Comprimido de Consumo Vehicular;UTM/1000m4;1,93;0;;1,93
+07-03-2024;Gasolina Automotriz 93 (*);UTM/m3;6;-1,5289;;4,4711
+07-03-2024;Gasolina Automotriz 97 (*);UTM/m3;6;-1,5461;;4,4539
+07-03-2024;Petróleo Diesel;UTM/m3;1,5;-1,2412;;0,2588
+07-03-2024;Gas Licuado de Petróleo de Consumo Vehicular;UTM/m3;1,4;-1,1688;;0,2312
+07-03-2024;Gas Natural Comprimido de Consumo Vehicular;UTM/1000m4;1,93;-1,7760;;0,1540
